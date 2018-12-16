@@ -7,8 +7,8 @@ public class Main {
 
         System.out.println("For loop test");
 
-        for(int j = 25; j >= -3; j--) {
-            System.out.println("the value of J is currently: " + j);
+        for(int lsam = 25; lsam >= -3; lsam--) {
+            System.out.println("the value of J is currently: " + lsam);
             System.out.println("Going down one level");
         }
 
